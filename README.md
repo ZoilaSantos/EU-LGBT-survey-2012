@@ -1,7 +1,9 @@
 # European Union LGBT Survey (2012): Bisexual Men and Bisexual Women
 
 Data Source: EU LGBT Survey | [Kaggle](https://www.kaggle.com/datasets/ruslankl/european-union-lgbt-survey-2012?select=LGBT_Survey_ViolenceAndHarassment.csv)
+
 Data License: Public Domain | Creative Commons — CC0 1.0 Universal
+
 Inspiration: Bisexual people experience more disparities, such as poverty and violence, than lesbian and gay people (MAP, 2014). Are there differences in the disparties that bisexual men and bisexual women experience? What are they and how do we address them? 
 
 Movement Advancement Project, BiNet USA, and Bisexual Resource Center. 2014. "Understanding Issues Facing Bisexual Americans." https://www.lgbtmap.org/understanding-issues-facing-bisexual-americans
